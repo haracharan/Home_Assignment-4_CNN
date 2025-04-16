@@ -40,12 +40,5 @@ The following four scripts are included in this repository:
    The example sentence analyzed is:  
    `"Despite the high price, the performance of the new MacBook is outstanding."`
 
----
 
-## 🛠️ Setup Instructions
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/NLP-Mini-Projects.git
-cd NLP-Mini-Projects
 
